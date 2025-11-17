@@ -1,0 +1,72 @@
+# TradingView
+PROCESS-NAME,/Applications/TradingView.app/
+DOMAIN-KEYWORD,tradingview
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,s.tradingview.com
+DOMAIN-SUFFIX,pine.tradingview.com
+DOMAIN-SUFFIX,prodata.tradingview.com
+DOMAIN-SUFFIX,data.tradingview.com
+
+# Trade Tools (Deepvue)
+DOMAIN-KEYWORD,deepvue
+DOMAIN-SUFFIX,deepvue.com
+
+# REI
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,powerreviews.com
+DOMAIN-SUFFIX,rei.scene7.com
+DOMAIN-SUFFIX,rei.com
+
+# Hulu
+DOMAIN-SUFFIX,hulustream.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-KEYWORD,hulu
+
+# Media (Mubi, Criterion, Shudder)
+DOMAIN-SUFFIX,mubi.com
+DOMAIN-KEYWORD,mubi
+DOMAIN-SUFFIX,criterionchannel.com
+DOMAIN-SUFFIX,criterion.com
+DOMAIN-KEYWORD,shudder
+DOMAIN-SUFFIX,vhx.tv
+DOMAIN-SUFFIX,shudder.com
+
+# Shudder
+DOMAIN-KEYWORD,shudder
+DOMAIN-SUFFIX,shudder.com
+
+# Adobe & Analytics
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,adobedtm.com
+
+# Reviews & CDN
+DOMAIN-SUFFIX,powerreviews.com
+DOMAIN-SUFFIX,rei.scene7.com
+DOMAIN-SUFFIX,rei.com
+
+# Bloomberg
+DOMAIN-KEYWORD,bloomberg
+DOMAIN-SUFFIX,bloomberglp.com
+DOMAIN-SUFFIX,bloombergindustry.com
+DOMAIN-SUFFIX,bloomberglaw.com
+DOMAIN-SUFFIX,blpprofessional.com
+DOMAIN-SUFFIX,bwbx.io
+DOMAIN-SUFFIX,bloomberg.net
+DOMAIN-SUFFIX,bloomberg.com
+
+# Mubi
+DOMAIN-KEYWORD,mubi
+DOMAIN-SUFFIX,mubi.com
+
+# Criterion & VHX
+DOMAIN-SUFFIX,vhx.tv
+DOMAIN-SUFFIX,criterionchannel.com
+DOMAIN-SUFFIX,criterion.com
+
+# Instagram (Posts, Stories, Videos, Live)
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-KEYWORD,instagram

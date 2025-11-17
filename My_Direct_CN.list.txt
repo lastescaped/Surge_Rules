@@ -1,0 +1,21 @@
+# Alibaba & Taobao & Alipay
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,tmall
+DOMAIN-KEYWORD,taobao
+DOMAIN-SUFFIX,1688.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,alipayhk.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,tbcdn.cn
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,tmall.hk
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,taobao.com
+
+# SMS Activate
+DOMAIN-KEYWORD,sms-activate
+DOMAIN-SUFFIX,sms-activate.org
+DOMAIN-SUFFIX,sms-activate.io

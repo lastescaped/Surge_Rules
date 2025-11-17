@@ -1,0 +1,9 @@
+# Paypal
+DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,braintreepayments.com
+DOMAIN-SUFFIX,braintree-payments.com
+DOMAIN-SUFFIX,braintree-auth.com
+DOMAIN-SUFFIX,braintree-api.com
+DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,paypal-mktg.com
+DOMAIN-SUFFIX,paypal.com
