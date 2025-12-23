@@ -1,0 +1,8 @@
+# --- Starz Streaming ---
+# 官网与播放主域
+DOMAIN-SUFFIX,starz.com
+DOMAIN-SUFFIX,starz.net
+DOMAIN-SUFFIX,starzplay.com
+
+# 关键词匹配 (非常适合 Apple TV/iOS App，防止遗漏复杂的 API 域名)
+DOMAIN-KEYWORD,starz
